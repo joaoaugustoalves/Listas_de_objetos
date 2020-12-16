@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\Listas de objetos\obj\Debug\netcoreapp3.1\Listas de objetos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Listas de objetos\obj\Debug\netcoreapp3.1\Listas de objetos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Listas de objetos\obj\Debug\netcoreapp3.1\Listas de objetos.AssemblyInfo.cs
+C:\Users\fic\Desktop\Listas de objetos\obj\Debug\netcoreapp3.1\Listas de objetos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Listas de objetos\bin\Debug\netcoreapp3.1\Listas de objetos.exe
+C:\Users\fic\Desktop\Listas de objetos\bin\Debug\netcoreapp3.1\Listas de objetos.deps.json
+C:\Users\fic\Desktop\Listas de objetos\bin\Debug\netcoreapp3.1\Listas de objetos.runtimeconfig.json
+C:\Users\fic\Desktop\Listas de objetos\bin\Debug\netcoreapp3.1\Listas de objetos.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Listas de objetos\bin\Debug\netcoreapp3.1\Listas de objetos.dll
+C:\Users\fic\Desktop\Listas de objetos\bin\Debug\netcoreapp3.1\Listas de objetos.pdb
+C:\Users\fic\Desktop\Listas de objetos\obj\Debug\netcoreapp3.1\Listas de objetos.dll
+C:\Users\fic\Desktop\Listas de objetos\obj\Debug\netcoreapp3.1\Listas de objetos.pdb
+C:\Users\fic\Desktop\Listas de objetos\obj\Debug\netcoreapp3.1\Listas de objetos.genruntimeconfig.cache
